@@ -64,7 +64,7 @@ To run this locally:
 💡 Future Ideas
 🧠 Smarter AI
 
-🌈 Confetti effects
+ Confetti effects
 
 🔊 Sound effects
 
